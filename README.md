@@ -1,4 +1,20 @@
-# cc-skill-router
+<div align="center">
+
+# ◈ cc-skill-router
+
+### Project-aware skill recommender for Claude Code
+
+**`SessionStart` hook · Advises, never auto-runs · Zero per-turn cost**
+
+[![Lint](https://github.com/Alpha-Oi/cc-skill-router/actions/workflows/lint.yml/badge.svg)](https://github.com/Alpha-Oi/cc-skill-router/actions/workflows/lint.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-22a06b.svg)](LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/Alpha-Oi/cc-skill-router?color=1f6feb)](https://github.com/Alpha-Oi/cc-skill-router/commits/main)
+
+[English](README.md) · [Русский](README.ru.md) · [Contributing](CONTRIBUTING.md) · [Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md)
+
+</div>
+
+---
 
 Global Claude Code skill + `SessionStart` hook that recommends which installed skill fits the task, with project-aware alternatives. **Advises, never auto-runs.**
 
